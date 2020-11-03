@@ -1,0 +1,620 @@
+year,state,winner
+1976,Alabama,democrat
+1976,Alaska,republican
+1976,Arizona,republican
+1976,Arkansas,democrat
+1976,California,republican
+1976,Colorado,republican
+1976,Connecticut,republican
+1976,Delaware,democrat
+1976,District of Columbia,democrat
+1976,Florida,democrat
+1976,Georgia,democrat
+1976,Hawaii,democrat
+1976,Idaho,republican
+1976,Illinois,republican
+1976,Indiana,republican
+1976,Iowa,republican
+1976,Kansas,republican
+1976,Kentucky,democrat
+1976,Louisiana,democrat
+1976,Maine,republican
+1976,Maryland,democrat
+1976,Massachusetts,democrat
+1976,Michigan,republican
+1976,Minnesota,democrat
+1976,Mississippi,democrat
+1976,Missouri,democrat
+1976,Montana,republican
+1976,Nebraska,republican
+1976,Nevada,republican
+1976,New Hampshire,republican
+1976,New Jersey,republican
+1976,New Mexico,republican
+1976,New York,democrat
+1976,North Carolina,democrat
+1976,North Dakota,republican
+1976,Ohio,democrat
+1976,Oklahoma,republican
+1976,Oregon,republican
+1976,Pennsylvania,democrat
+1976,Rhode Island,democrat
+1976,South Carolina,democrat
+1976,South Dakota,republican
+1976,Tennessee,democrat
+1976,Texas,democrat
+1976,Utah,republican
+1976,Vermont,republican
+1976,Virginia,republican
+1976,Washington,republican
+1976,West Virginia,democrat
+1976,Wisconsin,democrat
+1976,Wyoming,republican
+1980,Alabama,republican
+1980,Alaska,republican
+1980,Arizona,republican
+1980,Arkansas,republican
+1980,California,republican
+1980,Colorado,republican
+1980,Connecticut,republican
+1980,Delaware,republican
+1980,District of Columbia,democrat
+1980,Florida,republican
+1980,Georgia,democrat
+1980,Hawaii,democrat
+1980,Idaho,republican
+1980,Illinois,republican
+1980,Indiana,republican
+1980,Iowa,republican
+1980,Kansas,republican
+1980,Kentucky,republican
+1980,Louisiana,republican
+1980,Maine,republican
+1980,Maryland,democrat
+1980,Massachusetts,republican
+1980,Michigan,republican
+1980,Minnesota,democrat
+1980,Mississippi,republican
+1980,Missouri,republican
+1980,Montana,republican
+1980,Nebraska,republican
+1980,Nevada,republican
+1980,New Hampshire,republican
+1980,New Jersey,republican
+1980,New Mexico,republican
+1980,New York,democrat
+1980,North Carolina,republican
+1980,North Dakota,republican
+1980,Ohio,republican
+1980,Oklahoma,republican
+1980,Oregon,republican
+1980,Pennsylvania,republican
+1980,Rhode Island,democrat
+1980,South Carolina,republican
+1980,South Dakota,republican
+1980,Tennessee,republican
+1980,Texas,republican
+1980,Utah,republican
+1980,Vermont,republican
+1980,Virginia,republican
+1980,Washington,republican
+1980,West Virginia,democrat
+1980,Wisconsin,republican
+1980,Wyoming,republican
+1984,Alabama,republican
+1984,Alaska,republican
+1984,Arizona,republican
+1984,Arkansas,republican
+1984,California,republican
+1984,Colorado,republican
+1984,Connecticut,republican
+1984,Delaware,republican
+1984,District of Columbia,democrat
+1984,Florida,republican
+1984,Georgia,republican
+1984,Hawaii,republican
+1984,Idaho,republican
+1984,Illinois,republican
+1984,Indiana,republican
+1984,Iowa,republican
+1984,Kansas,republican
+1984,Kentucky,republican
+1984,Louisiana,republican
+1984,Maine,republican
+1984,Maryland,republican
+1984,Massachusetts,republican
+1984,Michigan,republican
+1984,Minnesota,democrat
+1984,Mississippi,republican
+1984,Missouri,republican
+1984,Montana,republican
+1984,Nebraska,republican
+1984,Nevada,republican
+1984,New Hampshire,republican
+1984,New Jersey,republican
+1984,New Mexico,republican
+1984,New York,republican
+1984,North Carolina,republican
+1984,North Dakota,republican
+1984,Ohio,republican
+1984,Oklahoma,republican
+1984,Oregon,republican
+1984,Pennsylvania,republican
+1984,Rhode Island,republican
+1984,South Carolina,republican
+1984,South Dakota,republican
+1984,Tennessee,republican
+1984,Texas,republican
+1984,Utah,republican
+1984,Vermont,republican
+1984,Virginia,republican
+1984,Washington,republican
+1984,West Virginia,republican
+1984,Wisconsin,republican
+1984,Wyoming,republican
+1988,Alabama,republican
+1988,Alaska,republican
+1988,Arizona,republican
+1988,Arkansas,republican
+1988,California,republican
+1988,Colorado,republican
+1988,Connecticut,republican
+1988,Delaware,republican
+1988,District of Columbia,democrat
+1988,Florida,republican
+1988,Georgia,republican
+1988,Hawaii,democrat
+1988,Idaho,republican
+1988,Illinois,republican
+1988,Indiana,republican
+1988,Iowa,democrat
+1988,Kansas,republican
+1988,Kentucky,republican
+1988,Louisiana,republican
+1988,Maine,republican
+1988,Maryland,republican
+1988,Massachusetts,democrat
+1988,Michigan,republican
+1988,Minnesota,democrat
+1988,Mississippi,republican
+1988,Missouri,republican
+1988,Montana,republican
+1988,Nebraska,republican
+1988,Nevada,republican
+1988,New Hampshire,republican
+1988,New Jersey,republican
+1988,New Mexico,republican
+1988,New York,democrat
+1988,North Carolina,republican
+1988,North Dakota,republican
+1988,Ohio,republican
+1988,Oklahoma,republican
+1988,Oregon,democrat
+1988,Pennsylvania,republican
+1988,Rhode Island,democrat
+1988,South Carolina,republican
+1988,South Dakota,republican
+1988,Tennessee,republican
+1988,Texas,republican
+1988,Utah,republican
+1988,Vermont,republican
+1988,Virginia,republican
+1988,Washington,democrat
+1988,West Virginia,democrat
+1988,Wisconsin,democrat
+1988,Wyoming,republican
+1992,Alabama,republican
+1992,Alaska,republican
+1992,Arizona,republican
+1992,Arkansas,democrat
+1992,California,democrat
+1992,Colorado,democrat
+1992,Connecticut,democrat
+1992,Delaware,democrat
+1992,District of Columbia,democrat
+1992,Florida,republican
+1992,Georgia,democrat
+1992,Hawaii,democrat
+1992,Idaho,republican
+1992,Illinois,democrat
+1992,Indiana,republican
+1992,Iowa,democrat
+1992,Kansas,republican
+1992,Kentucky,democrat
+1992,Louisiana,democrat
+1992,Maine,democrat
+1992,Maryland,democrat
+1992,Massachusetts,democrat
+1992,Michigan,democrat
+1992,Minnesota,democrat
+1992,Mississippi,republican
+1992,Missouri,democrat
+1992,Montana,democrat
+1992,Nebraska,republican
+1992,Nevada,democrat
+1992,New Hampshire,democrat
+1992,New Jersey,democrat
+1992,New Mexico,democrat
+1992,New York,democrat
+1992,North Carolina,republican
+1992,North Dakota,republican
+1992,Ohio,democrat
+1992,Oklahoma,republican
+1992,Oregon,democrat
+1992,Pennsylvania,democrat
+1992,Rhode Island,democrat
+1992,South Carolina,republican
+1992,South Dakota,republican
+1992,Tennessee,democrat
+1992,Texas,republican
+1992,Utah,republican
+1992,Vermont,democrat
+1992,Virginia,republican
+1992,Washington,democrat
+1992,West Virginia,democrat
+1992,Wisconsin,democrat
+1992,Wyoming,republican
+1996,Alabama,republican
+1996,Alaska,republican
+1996,Arizona,democrat
+1996,Arkansas,democrat
+1996,California,democrat
+1996,Colorado,republican
+1996,Connecticut,democrat
+1996,Delaware,democrat
+1996,District of Columbia,democrat
+1996,Florida,democrat
+1996,Georgia,republican
+1996,Hawaii,democrat
+1996,Idaho,republican
+1996,Illinois,democrat
+1996,Indiana,republican
+1996,Iowa,democrat
+1996,Kansas,republican
+1996,Kentucky,democrat
+1996,Louisiana,democrat
+1996,Maine,democrat
+1996,Maryland,democrat
+1996,Massachusetts,democrat
+1996,Michigan,democrat
+1996,Minnesota,democrat
+1996,Mississippi,republican
+1996,Missouri,democrat
+1996,Montana,republican
+1996,Nebraska,republican
+1996,Nevada,democrat
+1996,New Hampshire,democrat
+1996,New Jersey,democrat
+1996,New Mexico,democrat
+1996,New York,democrat
+1996,North Carolina,republican
+1996,North Dakota,republican
+1996,Ohio,democrat
+1996,Oklahoma,republican
+1996,Oregon,democrat
+1996,Pennsylvania,democrat
+1996,Rhode Island,democrat
+1996,South Carolina,republican
+1996,South Dakota,republican
+1996,Tennessee,democrat
+1996,Texas,republican
+1996,Utah,republican
+1996,Vermont,democrat
+1996,Virginia,republican
+1996,Washington,democrat
+1996,West Virginia,democrat
+1996,Wisconsin,democrat
+1996,Wyoming,republican
+2000,Alabama,republican
+2000,Alaska,republican
+2000,Arizona,republican
+2000,Arkansas,republican
+2000,California,democrat
+2000,Colorado,republican
+2000,Connecticut,democrat
+2000,Delaware,democrat
+2000,District of Columbia,democrat
+2000,Florida,republican
+2000,Georgia,republican
+2000,Hawaii,democrat
+2000,Idaho,republican
+2000,Illinois,democrat
+2000,Indiana,republican
+2000,Iowa,democrat
+2000,Kansas,republican
+2000,Kentucky,republican
+2000,Louisiana,republican
+2000,Maine,democrat
+2000,Maryland,democrat
+2000,Massachusetts,democrat
+2000,Michigan,democrat
+2000,Minnesota,democrat
+2000,Mississippi,republican
+2000,Missouri,republican
+2000,Montana,republican
+2000,Nebraska,republican
+2000,Nevada,republican
+2000,New Hampshire,republican
+2000,New Jersey,democrat
+2000,New Mexico,democrat
+2000,New York,democrat
+2000,North Carolina,republican
+2000,North Dakota,republican
+2000,Ohio,republican
+2000,Oklahoma,republican
+2000,Oregon,democrat
+2000,Pennsylvania,democrat
+2000,Rhode Island,democrat
+2000,South Carolina,republican
+2000,South Dakota,republican
+2000,Tennessee,republican
+2000,Texas,republican
+2000,Utah,republican
+2000,Vermont,democrat
+2000,Virginia,republican
+2000,Washington,democrat
+2000,West Virginia,republican
+2000,Wisconsin,democrat
+2000,Wyoming,republican
+2004,Alabama,republican
+2004,Alaska,republican
+2004,Arizona,republican
+2004,Arkansas,republican
+2004,California,democrat
+2004,Colorado,republican
+2004,Connecticut,democrat
+2004,Delaware,democrat
+2004,District of Columbia,democrat
+2004,Florida,republican
+2004,Georgia,republican
+2004,Hawaii,democrat
+2004,Idaho,republican
+2004,Illinois,democrat
+2004,Indiana,republican
+2004,Iowa,republican
+2004,Kansas,republican
+2004,Kentucky,republican
+2004,Louisiana,republican
+2004,Maine,democrat
+2004,Maryland,democrat
+2004,Maryland,republican
+2004,Massachusetts,democrat
+2004,Michigan,democrat
+2004,Minnesota,democrat
+2004,Mississippi,republican
+2004,Missouri,republican
+2004,Montana,republican
+2004,Nebraska,republican
+2004,Nevada,republican
+2004,New Hampshire,democrat
+2004,New Jersey,democrat
+2004,New Mexico,republican
+2004,New York,democrat
+2004,North Carolina,republican
+2004,North Dakota,republican
+2004,Ohio,republican
+2004,Oklahoma,republican
+2004,Oregon,democrat
+2004,Pennsylvania,democrat
+2004,Rhode Island,democrat
+2004,South Carolina,republican
+2004,South Dakota,republican
+2004,Tennessee,republican
+2004,Texas,republican
+2004,Utah,republican
+2004,Vermont,democrat
+2004,Virginia,republican
+2004,Washington,democrat
+2004,West Virginia,republican
+2004,Wisconsin,democrat
+2004,Wyoming,republican
+2008,Alabama,republican
+2008,Alaska,republican
+2008,Arizona,republican
+2008,Arkansas,republican
+2008,California,democrat
+2008,Colorado,democrat
+2008,Connecticut,democrat
+2008,Delaware,democrat
+2008,District of Columbia,democrat
+2008,Florida,democrat
+2008,Georgia,republican
+2008,Hawaii,democrat
+2008,Idaho,republican
+2008,Illinois,democrat
+2008,Indiana,democrat
+2008,Iowa,democrat
+2008,Kansas,republican
+2008,Kentucky,republican
+2008,Louisiana,republican
+2008,Maine,democrat
+2008,Maryland,democrat
+2008,Massachusetts,democrat
+2008,Michigan,democrat
+2008,Minnesota,democrat
+2008,Mississippi,republican
+2008,Missouri,republican
+2008,Montana,republican
+2008,Nebraska,republican
+2008,Nevada,democrat
+2008,New Hampshire,democrat
+2008,New Jersey,democrat
+2008,New Mexico,democrat
+2008,New York,democrat
+2008,North Carolina,democrat
+2008,North Dakota,republican
+2008,Ohio,democrat
+2008,Oklahoma,republican
+2008,Oregon,democrat
+2008,Pennsylvania,democrat
+2008,Rhode Island,democrat
+2008,South Carolina,republican
+2008,South Dakota,republican
+2008,Tennessee,republican
+2008,Texas,republican
+2008,Utah,republican
+2008,Vermont,democrat
+2008,Virginia,democrat
+2008,Washington,democrat
+2008,West Virginia,republican
+2008,Wisconsin,democrat
+2008,Wyoming,republican
+2012,Alabama,republican
+2012,Alaska,republican
+2012,Arizona,republican
+2012,Arkansas,republican
+2012,California,democrat
+2012,Colorado,democrat
+2012,Connecticut,democrat
+2012,Delaware,democrat
+2012,District of Columbia,democrat
+2012,Florida,democrat
+2012,Georgia,republican
+2012,Hawaii,democrat
+2012,Idaho,republican
+2012,Illinois,democrat
+2012,Indiana,republican
+2012,Iowa,democrat
+2012,Kansas,republican
+2012,Kentucky,republican
+2012,Louisiana,republican
+2012,Maine,democrat
+2012,Maryland,democrat
+2012,Massachusetts,democrat
+2012,Michigan,democrat
+2012,Minnesota,democrat
+2012,Mississippi,republican
+2012,Missouri,republican
+2012,Montana,republican
+2012,Nebraska,republican
+2012,Nevada,democrat
+2012,New Hampshire,democrat
+2012,New Jersey,democrat
+2012,New Mexico,democrat
+2012,New York,democrat
+2012,North Carolina,republican
+2012,North Dakota,republican
+2012,Ohio,democrat
+2012,Oklahoma,republican
+2012,Oregon,democrat
+2012,Pennsylvania,democrat
+2012,Rhode Island,democrat
+2012,South Carolina,republican
+2012,South Dakota,republican
+2012,Tennessee,republican
+2012,Texas,republican
+2012,Utah,republican
+2012,Vermont,democrat
+2012,Virginia,democrat
+2012,Washington,democrat
+2012,West Virginia,republican
+2012,Wisconsin,democrat
+2012,Wyoming,republican
+2016,Alabama,republican
+2016,Alaska,republican
+2016,Arizona,republican
+2016,Arizona,democrat
+2016,Arkansas,republican
+2016,California,democrat
+2016,Colorado,democrat
+2016,Connecticut,democrat
+2016,Delaware,democrat
+2016,District of Columbia,democrat
+2016,Florida,republican
+2016,Georgia,republican
+2016,Hawaii,democrat
+2016,Idaho,republican
+2016,Illinois,democrat
+2016,Indiana,republican
+2016,Iowa,republican
+2016,Kansas,republican
+2016,Kentucky,republican
+2016,Louisiana,republican
+2016,Maine,democrat
+2016,Maryland,democrat
+2016,Maryland,republican
+2016,Maryland,republican
+2016,Massachusetts,democrat
+2016,Michigan,republican
+2016,Minnesota,democrat
+2016,Mississippi,republican
+2016,Missouri,republican
+2016,Montana,republican
+2016,Nebraska,republican
+2016,Nevada,democrat
+2016,New Hampshire,democrat
+2016,New Jersey,democrat
+2016,New Mexico,democrat
+2016,New York,democrat
+2016,North Carolina,republican
+2016,North Dakota,republican
+2016,Ohio,republican
+2016,Oklahoma,republican
+2016,Oregon,democrat
+2016,Pennsylvania,republican
+2016,Rhode Island,democrat
+2016,South Carolina,republican
+2016,South Dakota,republican
+2016,Tennessee,republican
+2016,Texas,republican
+2016,Utah,republican
+2016,Vermont,democrat
+2016,Virginia,democrat
+2016,Washington,democrat
+2016,West Virginia,republican
+2016,Wisconsin,republican
+2016,Wyoming,republican
+2020,Alabama,democrat
+2020,Alaska,democrat
+2020,Arizona,democrat
+2020,Arizona,democrat
+2020,Arkansas,democrat
+2020,California,democrat
+2020,Colorado,democrat
+2020,Connecticut,democrat
+2020,Delaware,democrat
+2020,District of Columbia,democrat
+2020,Florida,democrat
+2020,Georgia,democrat
+2020,Hawaii,democrat
+2020,Idaho,democrat
+2020,Illinois,democrat
+2020,Indiana,democrat
+2020,Iowa,democrat
+2020,Kansas,democrat
+2020,Kentucky,democrat
+2020,Louisiana,democrat
+2020,Maine,democrat
+2020,Maryland,democrat
+2020,Maryland,democrat
+2020,Maryland,democrat
+2020,Massachusetts,democrat
+2020,Michigan,democrat
+2020,Minnesota,democrat
+2020,Mississippi,democrat
+2020,Missouri,democrat
+2020,Montana,democrat
+2020,Nebraska,democrat
+2020,Nevada,democrat
+2020,New Hampshire,democrat
+2020,New Jersey,democrat
+2020,New Mexico,democrat
+2020,New York,democrat
+2020,North Carolina,democrat
+2020,North Dakota,democrat
+2020,Ohio,democrat
+2020,Oklahoma,democrat
+2020,Oregon,democrat
+2020,Pennsylvania,democrat
+2020,Rhode Island,democrat
+2020,South Carolina,democrat
+2020,South Dakota,democrat
+2020,Tennessee,democrat
+2020,Texas,democrat
+2020,Utah,democrat
+2020,Vermont,democrat
+2020,Virginia,democrat
+2020,Washington,democrat
+2020,West Virginia,democrat
+2020,Wisconsin,democrat
+2020,Wyoming,democrat
